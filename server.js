@@ -1,5 +1,5 @@
 const PORT = 5000
-const url ='https://www.haberler.com'
+const url ='https://www.erzendigital.com'
 const axios = require('axios')
 const cheerio = require('cheerio')
 const express = require('express')
